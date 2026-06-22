@@ -49,12 +49,12 @@ A PDF is generated entirely in JavaScript — no external PDF library is used. T
 
 ### Online
 
-Visit **https://nathanpitman.github.io/iHasco-SCORM-to-PDF-Transformer** — no setup needed.
+Visit **https://nathanpitman.github.io/SCORM-to-PDF-Transformer** — no setup needed.
 
 ### Local
 
 ```bash
-git clone https://github.com/nathanpitman/iHasco-SCORM-to-PDF-Transformer.git
+git clone https://github.com/nathanpitman/SCORM-to-PDF-Transformer.git
 cd scorm-to-pdf
 # Open index.html directly, or serve it:
 python -m http.server 8000
