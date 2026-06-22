@@ -1,8 +1,8 @@
-# iHasco SCORM-to-PDF Tranformer
+# SCORM-to-PDF Tranformer
 
 A zero-dependency browser tool that extracts text content from SCORM eLearning packages and generates downloadable PDF documents — with optional AI-powered prose rewriting via the Claude API.
 
-Built for iHasco (Citation Group) to support AI course creation workflows where SCORM packages need to be converted to readable documents.
+Built while at iHasco (Citation Group) to support AI course creation workflows where SCORM packages need to be converted to readable documents.
 
 **Live tool:** https://nathanpitman.github.io/iHasco-SCORM-to-PDF-Transformer
 
